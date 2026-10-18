@@ -20,6 +20,8 @@ Download the template below and customize it with your own design. For complete 
 <a href="example/Divide.png"><img src="example/Divide.png" width="150"/></a>
 <a href="example/Doge.png"><img src="example/Doge.png" width="150"/></a>
 <a href="example/Dot_Matrix.png"><img src="example/Dot_Matrix.png" width="150"/></a>
+<a href="example/Gear_5.png"><img src="example/Gear_5.png" width="150"/></a>
+<a href="example/Gojo.png"><img src="example/Gojo.png" width="150"/></a>
 <a href="example/Ice_Cream.png"><img src="example/Ice_Cream.png" width="150"/></a>
 <a href="example/Leopard.png"><img src="example/Leopard.png" width="150"/></a>
 <a href="example/Pixel_Art.png"><img src="example/Pixel_Art.png" width="150"/></a>
@@ -27,6 +29,7 @@ Download the template below and customize it with your own design. For complete 
 <a href="example/Rudi.png"><img src="example/Rudi.png" width="150"/></a>
 <a href="example/Sakura.png"><img src="example/Sakura.png" width="150"/></a>
 <a href="example/Sketch.png"><img src="example/Sketch.png" width="150"/></a>
+<a href="example/Slade.png"><img src="example/Slade.png" width="150"/></a>
 <a href="example/String_Lights.png"><img src="example/String_Lights.png" width="150"/></a>
 <a href="example/Valentine.png"><img src="example/Valentine.png" width="150"/></a>
 <a href="example/Vintage_Gradient.png"><img src="example/Vintage_Gradient.png" width="150"/></a>

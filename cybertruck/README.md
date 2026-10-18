@@ -25,6 +25,8 @@ Download the template below and customize it with your own design. For complete 
 <a href="example/Digital_Camo_Snow.png"><img src="example/Digital_Camo_Snow.png" width="150"/></a>
 <a href="example/Digital_Camo_Stealth.png"><img src="example/Digital_Camo_Stealth.png" width="150"/></a>
 <a href="example/Doge_Camo.png"><img src="example/Doge_Camo.png" width="150"/></a>
+<a href="example/Gear_5.png"><img src="example/Gear_5.png" width="150"/></a>
+<a href="example/Gojo.png"><img src="example/Gojo.png" width="150"/></a>
 <a href="example/Gradient_Black.png"><img src="example/Gradient_Black.png" width="150"/></a>
 <a href="example/Gradient_Burn.png"><img src="example/Gradient_Burn.png" width="150"/></a>
 <a href="example/Gradient_Cotton_Candy.png"><img src="example/Gradient_Cotton_Candy.png" width="150"/></a>
@@ -42,6 +44,7 @@ Download the template below and customize it with your own design. For complete 
 <a href="example/Retro.png"><img src="example/Retro.png" width="150"/></a>
 <a href="example/Rudi.png"><img src="example/Rudi.png" width="150"/></a>
 <a href="example/Rust.png"><img src="example/Rust.png" width="150"/></a>
+<a href="example/Slade.png"><img src="example/Slade.png" width="150"/></a>
 <a href="example/Valentine.png"><img src="example/Valentine.png" width="150"/></a>
 <a href="example/Woody.png"><img src="example/Woody.png" width="150"/></a>
 <a href="example/Xmas_Camo.png"><img src="example/Xmas_Camo.png" width="150"/></a>
